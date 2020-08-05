@@ -2,3 +2,8 @@ hi,
 this is the second commit 
 when learn git 
 
+adding another message
+halo
+this is line addding another message
+
+
