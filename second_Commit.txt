@@ -1,0 +1,4 @@
+hi,
+this is the second commit 
+when learn git 
+
